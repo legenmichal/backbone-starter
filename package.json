@@ -18,7 +18,8 @@
   "homepage": "https://github.com/legenmichal/backbone-starter",
   "dependencies": {
     "backbone": "^1.2.3",
-    "jquery": "^2.1.4"
+    "jquery": "^2.1.4",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "browser-sync": "^2.9.3",
